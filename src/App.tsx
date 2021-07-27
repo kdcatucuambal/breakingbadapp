@@ -50,7 +50,7 @@ function App() {
   return (
     <Container>
       <PhraseContainer phrase={phrase}></PhraseContainer>
-      <Button onClick={consultApi}>Get Phrase</Button>;
+      <Button onClick={consultApi}>Get Phrase!!</Button>;
     </Container>
   );
 }
